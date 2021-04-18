@@ -1,7 +1,5 @@
 I'm ErrorImCodingkeller, it's basically "Error in the coding-basement" in German!
 💀👨‍💻
-<!--
-**Error020/Error020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm currently "debugging" my life while doing small programming jobs for private people.
 I am experienced in C++, more specific technologies : multithreading+boost, A few fundemental API's(WinAPI, linux kernel API's),
