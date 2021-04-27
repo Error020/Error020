@@ -1,4 +1,4 @@
-I'm ErrorImCodingkeller, it's basically "Error in the coding-basement" in German!
+I'm ErrorImCodingkeller!
 💀👨‍💻
 
 I'm currently "debugging" my life while doing small programming jobs for private people.
