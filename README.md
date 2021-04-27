@@ -8,4 +8,4 @@ Documentations of Programming Languages and Libraries helped me through a few sm
 so I'm "kinda" experienced in : Python, C#, C, Javascript, LUA. 
 I'd say that my understanding of Technology on a hardware level is quite deep...
 
-Anyways, I hope that my GitHub is "interesting" even with the lack of repositories on this Account.
+Anyway, I hope my GitHub profile is "interesting" despite the lack of repositories on this account.
