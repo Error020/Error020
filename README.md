@@ -4,7 +4,7 @@ I am ErrorImCodingkeller!
 I am currently "debugging" my life doing small programming tasks for individuals.
 I have experience in C++, more specific technologies: multithreading+boost, some fundamental API's (WinAPI, Linux Kernel API's), even wxWidgets,
 algorithmic "understanding" e.g. 
-Documentation of programming languages and libraries helped me through some smaller projects in other languages 
+Documentations of programming languages and libraries helped me through some smaller projects in other languages 
 so I am "kind of" experienced in : Python, C#, C, Javascript, LUA. 
 I would say that my understanding of technology at hardware level is pretty deep....
 
