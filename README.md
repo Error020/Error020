@@ -1,5 +1,5 @@
 I am ErrorImCodingkeller!
-💀👨💻
+💀💻
 
 I am currently "debugging" my life doing small programming tasks for individuals.
 I have experience in C++, more specific technologies: multithreading+boost, some fundamental API's (WinAPI, Linux Kernel API's), even wxWidgets,
