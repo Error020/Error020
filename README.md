@@ -1,7 +1,7 @@
 I am ErrorImCodingkeller!
 💀💻
 
-I am currently "debugging" my life doing small programming tasks for individuals.
+I am doing programming tasks for individuals.
 I have experience in C++, more specific technologies: multithreading+boost, some fundamental API's (WinAPI, Linux Kernel API's), even wxWidgets,
 algorithmic "understanding" e.g. 
 Documentations of programming languages and libraries helped me through some smaller projects in other languages 
